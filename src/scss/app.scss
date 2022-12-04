@@ -27,3 +27,12 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
+
+
+@media only screen and (max-width: 600px) {
+  .discounts{
+    display:none;
+  }
+}
+
+
